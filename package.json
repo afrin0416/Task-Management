@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.11",
+    "tailwindcss": "^4.1.11"
+  }
+}
+// to run tailwindcss, you can use the following command:
+// npx @tailwindcss/cli -i ./static/css/input.css -o ./static/css/output.css --watch
